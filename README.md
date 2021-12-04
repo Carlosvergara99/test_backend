@@ -13,7 +13,7 @@
 1. Abrir  la consola de comandos de Git (Windows) o la Terminal en sistemas basados en Unix (Mac o Linux) y posicionare en el directorio raíz.
 2. Después Ejecutar el siguiente comando:  
 ```
-git clone https://github.com/Carlosvergara99/testoet.git
+git clone https://github.com/Carlosvergara99/test_backend.git
 ```
 .
 3. Luego debe ingresar a la carpeta del proyecto y ejecutar ejecuta el comando:
